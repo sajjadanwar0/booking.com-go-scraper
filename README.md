@@ -29,7 +29,7 @@ cd booking.com-go-scraper
 
 2. Install the required dependencies:
 ```bash
-go mod init booking-scraper
+go mod init booking.com-go-scraper
 go get github.com/PuerkitoBio/goquery
 go get github.com/chromedp/chromedp
 go get github.com/fatih/color
